@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HW_Classes_Types
+namespace HW_Classes_Types_07
 {
     internal class Program
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HW_Classes_Types
+namespace HW_Classes_Types_07
 {
     internal sealed class SealedClass
     {
